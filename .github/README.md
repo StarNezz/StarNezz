@@ -12,15 +12,15 @@
 
 <br clear="both">
 
-<img data-importer="profile-views" align="left" src="https://count.getloli.com/@:maurodesouz?theme=booru-ffsr&padding=7&offset=0&scale=1&align=center&pixelated=1&darkmode=auto"  />
+<img data-importer="profile-views" align="left" src="https://count.getloli.com/@:maurodesouz?theme=booru-ffsr&padding=5&offset=0&scale=1&align=center&pixelated=1&darkmode=auto"  />
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif"  />
+<img data-importer="image" align="right" height="180" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif"  />
 
 ###
 
-<img data-importer="image" align="right" height="198" src="https://i.imgur.com/P36D7gV.gif"  />
+<img data-importer="image" align="right" height="180" src="https://i.imgur.com/P36D7gV.gif"  />
 
 ###
 
