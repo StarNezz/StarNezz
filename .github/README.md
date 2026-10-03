@@ -98,8 +98,8 @@
       </a>
     </td>
     <td align="center" valign="top">
-      <a href="https://music.apple.com/profile/starmusic___?ls">
-        <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/apple-music-card.svg" width="400" alt="Lux Star___ on Apple Music — listening history not connected" />
+      <a href="https://music.apple.com/id/playlist/hi-ress/pl.u-GgA5klafoe5zYXB?l=id&amp;ls">
+        <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/apple-music-playlist.svg" width="400" alt="Hi-Ress by Lux Star___ — Apple Music playlist preview" />
       </a>
     </td>
   </tr>
