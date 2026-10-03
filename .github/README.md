@@ -8,10 +8,10 @@
 <img alt="StarNezz profile views" src="https://komarev.com/ghpvc/?username=StarNezz&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=for-the-badge" />
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="middle" width="50%"><img width="300" height="180" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif" alt="Anime animation" /></td>
-    <td align="center" valign="middle" width="50%"><img width="300" height="180" src="https://i.imgur.com/P36D7gV.gif" alt="Geometric animation" /></td>
+    <td align="center" valign="middle" width="50%"><img width="480" height="288" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif" alt="Anime animation" /></td>
+    <td align="center" valign="middle" width="50%"><img width="480" height="288" src="https://i.imgur.com/P36D7gV.gif" alt="Geometric animation" /></td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@
 <h2>💚 | Green Pixel Garden</h2>
 
 <p align="center">
-  <img src="assets/green-pixel-garden.svg" width="850" alt="Decorative green pixel garden — not actual GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/green-pixel-garden.svg" width="850" alt="Decorative green pixel garden — not actual GitHub contributions" />
 </p>
 
 <h2>🎮 | Contribution Animations</h2>
