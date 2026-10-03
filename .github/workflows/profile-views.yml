@@ -1,4 +1,4 @@
-name: Update mecha profile views
+name: Update Gundam profile views
 
 on:
   schedule:
@@ -9,10 +9,11 @@ on:
     paths:
       - '.github/scripts/update-profile-views.mjs'
       - '.github/assets/mecha-views-template.svg'
+      - '.github/assets/unicorn-gundam.jpg'
       - '.github/workflows/profile-views.yml'
 
 concurrency:
-  group: mecha-profile-views
+  group: gundam-profile-views
   cancel-in-progress: false
 
 permissions:

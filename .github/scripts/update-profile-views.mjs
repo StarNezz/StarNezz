@@ -25,8 +25,12 @@ for (let attempt = 0; attempt < 3; attempt++) {
 }
 const updated = new Date().toISOString().slice(0, 16).replace('T', ' ') + ' UTC';
 const template = await readFile('.github/assets/mecha-views-template.svg', 'utf8');
-if (!template.includes('__COUNT__') || !template.includes('__UPDATED__')) throw new Error('Invalid panel template');
-const panel = template.replaceAll('__COUNT__', count.toLocaleString('en-US')).replaceAll('__UPDATED__', updated);
+const photo = await readFile('.github/assets/unicorn-gundam.jpg');
+if (!template.includes('__COUNT__') || !template.includes('__UPDATED__') || !template.includes('__GUNDAM_PHOTO__')) throw new Error('Invalid panel template');
+const panel = template
+  .replaceAll('__COUNT__', count.toLocaleString('en-US'))
+  .replaceAll('__UPDATED__', updated)
+  .replaceAll('__GUNDAM_PHOTO__', photo.toString('base64'));
 const output = resolve(process.env.OUTPUT_DIR || 'dist');
 await mkdir(output, { recursive: true });
 await writeFile(resolve(output, 'mecha-views.svg'), panel);

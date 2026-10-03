@@ -1,49 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="264" viewBox="0 0 850 264" role="img" aria-labelledby="title desc">
   <title id="title">StarNezz — Bintang Putra</title>
-  <desc id="desc">Developer and technology explorer. __COUNT__ profile views, synchronized __UPDATED__. Animated Gundam-inspired helmet.</desc>
+  <desc id="desc">Developer and technology explorer. __COUNT__ profile views, synchronized __UPDATED__. Real Unicorn Gundam photography by Pelpinosas R. Justin James.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1629"/><stop offset="1" stop-color="#070c16"/></linearGradient>
-    <linearGradient id="armor" x2=".8" y2="1"><stop stop-color="#f4f8fc"/><stop offset=".55" stop-color="#bfcede"/><stop offset="1" stop-color="#6c859f"/></linearGradient>
-    <radialGradient id="halo"><stop stop-color="#23507b" stop-opacity=".55"/><stop offset="1" stop-color="#102031" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1528"/><stop offset="1" stop-color="#050912"/></linearGradient>
+    <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#07101f"/><stop offset=".35" stop-color="#07101f" stop-opacity=".92"/><stop offset=".72" stop-color="#07101f" stop-opacity=".12"/><stop offset="1" stop-color="#07101f" stop-opacity="0"/></linearGradient>
+    <linearGradient id="photoShade" y2="1"><stop stop-color="#08101d" stop-opacity=".08"/><stop offset="1" stop-color="#07101d" stop-opacity=".7"/></linearGradient>
     <clipPath id="panel"><rect x="1" y="1" width="848" height="262" rx="18"/></clipPath>
+    <clipPath id="photo"><path d="M500 0h350v264H452z"/></clipPath>
+    <filter id="blueGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <style>
-    .mecha{animation:float 7s ease-in-out infinite}.eyes,.signal{animation:glow 4s ease-in-out infinite}.orbit{transform-origin:683px 132px;animation:orbit 48s linear infinite}
-    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
-    @keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
-    @keyframes orbit{to{transform:rotate(360deg)}}
-    @media(prefers-reduced-motion:reduce){.mecha,.eyes,.orbit,.signal{animation:none}}
+    .scan{animation:scan 5.5s linear infinite}.ring{transform-origin:705px 132px;animation:ring 18s linear infinite}.signal{animation:pulse 2.8s ease-in-out infinite}.photoGlow{animation:photoGlow 6s ease-in-out infinite}
+    @keyframes scan{0%{transform:translateY(-22px);opacity:0}12%,82%{opacity:.38}100%{transform:translateY(292px);opacity:0}}
+    @keyframes ring{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+    @keyframes photoGlow{0%,100%{opacity:.18}50%{opacity:.42}}
+    @media(prefers-reduced-motion:reduce){.scan,.ring,.signal,.photoGlow{animation:none}}
   </style>
   <g clip-path="url(#panel)">
     <rect width="850" height="264" fill="url(#bg)"/>
-    <path d="M552 0L461 264M594 0L503 264M0 263h850" stroke="#1a2a40"/>
-    <circle cx="683" cy="132" r="148" fill="url(#halo)"/>
-    <circle cx="683" cy="132" r="108" fill="none" stroke="#273e56" stroke-dasharray="2 12"/>
-    <g class="orbit" fill="none" stroke="#446785"><circle cx="683" cy="132" r="96" stroke-dasharray="65 538"/><circle cx="683" cy="132" r="119" stroke-dasharray="30 718"/></g>
-    <path d="M30 0h135l-14 5H30" fill="#e9be61"/>
+    <g clip-path="url(#photo)">
+      <image x="340" y="-150" width="600" height="800" preserveAspectRatio="none" href="data:image/jpeg;base64,__GUNDAM_PHOTO__"/>
+      <rect x="450" width="400" height="264" fill="url(#photoShade)"/>
+      <path class="photoGlow" d="M525 0h325v264H475z" fill="none" stroke="#5aa7ff" stroke-width="3" filter="url(#blueGlow)"/>
+      <g class="ring" fill="none" stroke="#6daeff" opacity=".46"><circle cx="705" cy="132" r="99" stroke-dasharray="58 565"/><circle cx="705" cy="132" r="116" stroke-dasharray="22 708"/></g>
+      <rect class="scan" x="480" y="0" width="370" height="2" fill="#8ac5ff" filter="url(#blueGlow)"/>
+    </g>
+    <path d="M0 0h567L477 264H0z" fill="url(#fade)"/>
+    <path d="M30 0h142l-15 5H30" fill="#e9be61"/>
+    <path d="M493 0L405 264M529 0l-88 264" stroke="#1b2d47" opacity=".72"/>
     <text x="36" y="41" fill="#d8b36a" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">BUILD · EXPLORE · UNDERSTAND</text>
     <text x="33" y="96" fill="#f0f5fc" font-family="Arial,sans-serif" font-size="48" font-weight="bold">StarNezz<tspan fill="#609ce8">.</tspan></text>
     <text x="36" y="126" fill="#b1c2d6" font-family="Arial,sans-serif" font-size="17">Bintang Putra</text>
     <text x="36" y="152" fill="#8196ae" font-family="Arial,sans-serif" font-size="13">Developer &amp; technology explorer</text>
     <rect x="36" y="179" width="246" height="58" rx="10" fill="#101f32" stroke="#2a4059"/>
-    <circle class="signal" cx="54" cy="198" r="3" fill="#72dfc6"/>
+    <circle class="signal" cx="54" cy="198" r="3" fill="#67b4ff"/>
     <text x="65" y="202" fill="#93acc5" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.5">PROFILE VIEWS</text>
     <text x="262" y="222" text-anchor="end" fill="#f5f7fa" font-family="monospace" font-size="29" font-weight="bold">__COUNT__</text>
     <text x="50" y="223" fill="#6f879f" font-family="Arial,sans-serif" font-size="8">__UPDATED__</text>
-    <g class="mecha">
-      <path d="M615 97l29-42h78l30 42-10 90h-113z" fill="#1c3657" stroke="#385a7d" stroke-width="2"/>
-      <path d="M650 73l33-22 34 22 19 66-25 56h-56l-25-56z" fill="url(#armor)" stroke="#7996b0" stroke-width="2"/>
-      <path d="M669 73l-70-44 43 71 34-15M697 73l70-44-43 71-34-15" fill="#f2cb64" stroke="#b78932" stroke-width="1.5"/>
-      <path d="M673 55h20l7 42-17 12-17-12z" fill="#2d65a3" stroke="#5788bb"/><path d="M678 54h10v20h-10z" fill="#e45f58"/>
-      <path d="M640 111l43 11 44-11-13 31h-61z" fill="#0a192b" stroke="#718b9e"/>
-      <g class="eyes" fill="#73f2d2"><path d="M650 119l27 7-3 9-21-6zM716 119l-27 7 3 9 21-6z"/></g>
-      <path d="M678 140h10l10 31-15 25-15-25z" fill="#d04c4c" stroke="#92383c"/>
-      <path d="M642 143l27 7-11 31-19-19M724 143l-27 7 11 31 19-19" fill="#c5d2dc" stroke="#70869b"/>
-      <path d="M649 157l15 5M646 164l15 5M717 157l-15 5M720 164l-15 5" stroke="#4e6479" stroke-width="3"/>
-      <path d="M628 185l33 14 22-3 22 3 33-14 26 35H602z" fill="#234c7c" stroke="#52749b" stroke-width="2"/>
-      <path d="M657 200h18v15h-18M691 200h18v15h-18" fill="#e8bc55"/>
-    </g>
-    <text x="683" y="247" text-anchor="middle" fill="#7691ac" font-family="Arial,sans-serif" font-size="8" letter-spacing="3">MECHA SYSTEM / STANDBY</text>
+    <text x="817" y="246" text-anchor="end" fill="#a8bfd8" font-family="Arial,sans-serif" font-size="8" letter-spacing="2">UNICORN SYSTEM / ACTIVE</text>
   </g>
-  <rect x=".5" y=".5" width="849" height="263" rx="18" fill="none" stroke="#2a3b50"/>
+  <rect x=".5" y=".5" width="849" height="263" rx="18" fill="none" stroke="#30465f"/>
 </svg>

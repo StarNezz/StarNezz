@@ -87,7 +87,7 @@
 ## After hours
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/galactic-pixel-battle.svg" width="850" alt="Animated decorative galactic battle" />
+  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/galactic-gundam-battle.svg" width="850" alt="Animated cinematic battle with Unicorn Gundam, enemy mobile suits, beams, ships, and explosions" />
 </p>
 
 <table align="center" width="700">
@@ -98,3 +98,9 @@
 </table>
 
 <p align="center"><em>Code is my language. Curiosity is my power.</em></p>
+
+<details>
+  <summary>Visual credits</summary>
+  <br>
+  Header photography: <a href="https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg">Life-Sized Unicorn Gundam Statue</a> by Pelpinosas R. Justin James, dedicated to the public domain under CC0. Galactic battle artwork was created specifically for this profile.
+</details>
