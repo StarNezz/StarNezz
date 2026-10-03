@@ -1,121 +1,66 @@
-<h1 data-importer="text" align="center">👾 Hello, World.</h1>
+<h1 align="center">👾 Hello, World.</h1>
 
-###
+<p align="left">My name is StarNezz (King) 👑<br>I’m a developer, tech enthusiast, and curious mind who loves building, exploring, and breaking things just to understand how they work.<br><br>Code is my language. Curiosity is my power.</p>
 
-<p data-importer="text" align="left">My name is StarNezz (King) 👑<br>I’m a developer, tech enthusiast, and curious mind who loves building, exploring, and breaking things just to understand how they work.<br><br>Code is my language. Curiosity is my power.</p>
+<p align="center">𝔾𝕆𝕆𝔻 𝔹𝕆𝕐 𓃶</p>
 
-###
+<p align="center">
+<img alt="StarNezz profile views" src="https://count.getloli.com/@StarNezz?theme=booru-ffsr&amp;padding=5&amp;offset=0&amp;scale=1&amp;align=center&amp;pixelated=1&amp;darkmode=auto" />
+</p>
 
-<p data-importer="text" align="center">𝔾𝕆𝕆𝔻 𝔹𝕆𝕐 𓃶</p>
+<p align="center">
+  <img width="45%" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif" alt="Anime animation" />
+  <img width="45%" src="https://i.imgur.com/P36D7gV.gif" alt="Geometric animation" />
+</p>
 
-###
+<h2 align="left">🌌 | Inside My World</h2>
 
-<br clear="both">
+<p align="left">🎯 Goal: Become a better developer every day<br>🎮 Game: Valorant, Roblox &amp; whatever looks fun<br>💻 Currently: Learning, coding &amp; experimenting<br>🛠️ Creating: Projects, ideas &amp; probably bugs<br>🐛 Fun Fact: I fix bugs by creating new ones<br>⚡ Hobby: Exploring technology and trying random things<br>🧠 Mindset: Learn → Build → Break → Fix → Repeat<br>🌙 Most productive: When everyone else is sleeping<br>👑 Motto: "If it works, don't touch it... unless I want to know why."</p>
 
-<img data-importer="profile-views" align="left" src="https://count.getloli.com/@:maurodesouz?theme=booru-ffsr&padding=5&offset=0&scale=1&align=center&pixelated=1&darkmode=auto"  />
+<h2 align="left">🛠️ | Work with:</h2>
 
-###
-
-<img data-importer="image" align="right" height="180" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="180" src="https://i.imgur.com/P36D7gV.gif"  />
-
-###
-
-<h2 data-importer="text" align="left">🌌 | Inside My World</h2>
-
-###
-
-<p data-importer="text" align="left">🎯 Goal: Become a better developer every day<br>🎮 Game: Valorant, Roblox & whatever looks fun<br>💻 Currently: Learning, coding & experimenting<br>🛠️ Creating: Projects, ideas & probably bugs<br>🐛 Fun Fact: I fix bugs by creating new ones<br>⚡ Hobby: Exploring technology and trying random things<br>🧠 Mindset: Learn → Build → Break → Fix → Repeat<br>🌙 Most productive: When everyone else is sleeping<br>👑 Motto: "If it works, don't touch it... unless I want to know why."</p>
-
-###
-
-<h2 data-importer="text" align="left">🛠️ | Work with:</h2>
-
-###
-
-<div data-importer="techs" align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<h2 align="left">🌐 | Social Media</h2>
 
-<h2 data-importer="text" align="left">🌐 | Social Media</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/starnezz" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/starnezz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/SqzVg7t5Wp" target="_blank">
@@ -132,31 +77,25 @@
   </a>
 </div>
 
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Luxury Star">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Luxury%20Star&count=5&unique=false" alt="Spotify recently played"  />
+<!-- Activate the recent-tracks card by connecting this Spotify account at https://spotify-recently-played.jeffreyca.workers.dev/ -->
+<div align="center">
+  <a href="https://open.spotify.com/user/314lh2fuhgj4jstbqipk73humxgi">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314lh2fuhgj4jstbqipk73humxgi&amp;count=5&amp;unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
+<h2>🎮 | Contribution Animations</h2>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<!-- Generated by the workflows in .github/workflows after pushing to main. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarNezz/StarNezz/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarNezz/StarNezz/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StarNezz/StarNezz/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<img src="https://raw.githubusercontent.com/StarNezz/StarNezz/snake-output/snake.svg" alt="Snake animation" />
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
-
-###
