@@ -81,12 +81,29 @@
 
 <br><br>
 
-<!-- Activate the recent-tracks card by connecting this Spotify account at https://spotify-recently-played.jeffreyca.workers.dev/ -->
-<div align="center">
-  <a href="https://open.spotify.com/user/314lh2fuhgj4jstbqipk73humxgi">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314lh2fuhgj4jstbqipk73humxgi&amp;count=5&amp;unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<h2>🎵 | Music</h2>
+
+<!-- Connect Spotify at https://spotify-recently-played.jeffreyca.workers.dev/ to display listening history. -->
+<table width="100%">
+  <tr>
+    <th align="center" width="50%">Spotify</th>
+    <th align="center" width="50%">Apple Music</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://open.spotify.com/user/314lh2fuhgj4jstbqipk73humxgi">
+        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314lh2fuhgj4jstbqipk73humxgi&amp;count=5&amp;unique=false" width="400" alt="Spotify recently played" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <a href="https://music.apple.com/profile/starmusic___?ls">
+        <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&amp;logo=applemusic&amp;logoColor=white" height="40" alt="StarMusic on Apple Music" />
+      </a>
+      <p><a href="https://music.apple.com/profile/starmusic___?ls">Visit my Apple Music profile</a></p>
+    </td>
+  </tr>
+</table>
 
 <h2>💚 | Green Pixel Garden</h2>
 
