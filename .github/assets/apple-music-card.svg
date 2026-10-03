@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="328" viewBox="0 0 400 328" role="img" aria-labelledby="title desc">
+  <title id="title">Lux Star___ on Apple Music</title>
+  <desc id="desc">Apple Music profile card for starmusic___. Listening history is not connected. Click the card to visit the profile.</desc>
+  <rect x="0.5" y="0.5" width="399" height="327" rx="12" fill="#181818" stroke="#30363d"/>
+  <rect x="22" y="22" width="38" height="38" rx="10" fill="#fa243c"/>
+  <path d="M39 33v17c0 4-7 5-7 1 0-3 4-4 5-3V35l13-3v15c0 4-7 5-7 1 0-3 4-4 5-3V31z" fill="white"/>
+  <text x="73" y="39" fill="#fafafa" font-family="Arial,sans-serif" font-size="16" font-weight="bold">Apple Music</text>
+  <text x="73" y="57" fill="#a3a3a3" font-family="Arial,sans-serif" font-size="11">Music profile</text>
+  <path d="M22 78h356" stroke="#333"/>
+  <rect x="22" y="99" width="64" height="64" rx="12" fill="#302027"/>
+  <text x="54" y="139" text-anchor="middle" fill="#ff6b80" font-family="Arial,sans-serif" font-size="24" font-weight="bold">LS</text>
+  <text x="101" y="122" fill="#fafafa" font-family="Arial,sans-serif" font-size="18" font-weight="bold">Lux Star___</text>
+  <text x="101" y="145" fill="#a3a3a3" font-family="Arial,sans-serif" font-size="13">@starmusic___</text>
+  <text x="22" y="238" fill="#a3a3a3" font-family="Arial,sans-serif" font-size="12">Listening history not connected</text>
+  <rect x="22" y="261" width="356" height="43" rx="9" fill="#fa243c"/>
+  <text x="200" y="288" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold">Open my Apple Music profile ↗</text>
+</svg>

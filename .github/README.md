@@ -10,10 +10,10 @@
   <img alt="StarNezz live profile views" src="https://komarev.com/ghpvc/?username=StarNezz&amp;label=PILOT%20VISITS&amp;color=2563eb&amp;style=for-the-badge" />
 </p>
 
-<table align="center" width="100%">
+<table align="center" width="760">
   <tr>
-    <td align="center" valign="middle" width="50%"><img width="480" height="288" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif" alt="Anime animation" /></td>
-    <td align="center" valign="middle" width="50%"><img width="480" height="288" src="https://i.imgur.com/P36D7gV.gif" alt="Geometric animation" /></td>
+    <td align="center" valign="middle" width="50%"><img width="360" height="216" src="https://i.pinimg.com/originals/f3/6a/9c/f36a9cbd1ef06c9b9aff7f55a22afef0.gif" alt="Anime animation" /></td>
+    <td align="center" valign="middle" width="50%"><img width="360" height="216" src="https://i.imgur.com/P36D7gV.gif" alt="Geometric animation" /></td>
   </tr>
 </table>
 
@@ -83,10 +83,10 @@
 
 <br><br>
 
-<h2>🎵 | Music</h2>
+<h2 align="center">🎵 | Music</h2>
 
 <!-- Connect Spotify at https://spotify-recently-played.jeffreyca.workers.dev/ to display listening history. -->
-<table width="100%">
+<table align="center" width="820">
   <tr>
     <th align="center" width="50%">Spotify</th>
     <th align="center" width="50%">Apple Music</th>
@@ -98,11 +98,9 @@
       </a>
     </td>
     <td align="center" valign="top">
-      <br>
       <a href="https://music.apple.com/profile/starmusic___?ls">
-        <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&amp;logo=applemusic&amp;logoColor=white" height="40" alt="StarMusic on Apple Music" />
+        <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/apple-music-card.svg" width="400" alt="Lux Star___ on Apple Music — listening history not connected" />
       </a>
-      <p><a href="https://music.apple.com/profile/starmusic___?ls">Visit my Apple Music profile</a></p>
     </td>
   </tr>
 </table>
