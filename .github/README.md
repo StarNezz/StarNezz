@@ -5,7 +5,7 @@
 <p align="center">𝔾𝕆𝕆𝔻 𝔹𝕆𝕐 𓃶</p>
 
 <p align="center">
-<img alt="StarNezz profile views" src="https://count.getloli.com/@StarNezz?theme=booru-ffsr&amp;padding=5&amp;offset=0&amp;scale=1&amp;align=center&amp;pixelated=1&amp;darkmode=auto" />
+<img alt="StarNezz profile views" src="https://komarev.com/ghpvc/?username=StarNezz&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -76,6 +76,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+<br><br>
 
 <!-- Activate the recent-tracks card by connecting this Spotify account at https://spotify-recently-played.jeffreyca.workers.dev/ -->
 <div align="center">
