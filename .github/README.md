@@ -5,7 +5,9 @@
 <p align="center">𝔾𝕆𝕆𝔻 𝔹𝕆𝕐 𓃶</p>
 
 <p align="center">
-<img alt="StarNezz profile views" src="https://komarev.com/ghpvc/?username=StarNezz&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=for-the-badge" />
+<img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/mecha-views.svg" width="520" alt="StarNezz mecha-themed profile views panel" />
+  <br>
+  <img alt="StarNezz live profile views" src="https://komarev.com/ghpvc/?username=StarNezz&amp;label=PILOT%20VISITS&amp;color=2563eb&amp;style=for-the-badge" />
 </p>
 
 <table align="center" width="100%">
