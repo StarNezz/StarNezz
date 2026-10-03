@@ -105,10 +105,10 @@
   </tr>
 </table>
 
-<h2>💚 | Green Pixel Garden</h2>
+<h2 align="center">🚀 | Galactic Pixel Battle</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/green-pixel-garden.svg" width="850" alt="Decorative green pixel garden — not actual GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/StarNezz/StarNezz/main/.github/assets/galactic-pixel-battle.svg" width="850" alt="Animated decorative space battle — not actual GitHub contributions" />
 </p>
 
 <h2>🎮 | Contribution Animations</h2>
